@@ -1,7 +1,7 @@
 # Homework11
 ## Express Note Taker
 
-### Descripttion
+### Description
 
 This node express app was built to help create, save and delete notes for the user.   
 
@@ -13,7 +13,9 @@ All of the bootstrap styling shows up wonderfully.  However, even after double t
 
 ### Links
 
-    * 
+    * Deployed Heroku: https://notetaker-rf.herokuapp.com/
+
+    * Github Repository: https://github.com/rffrye/Homework11
 
 ### Technologies 
 
