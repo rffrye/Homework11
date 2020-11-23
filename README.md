@@ -11,6 +11,10 @@ All of the bootstrap styling shows up wonderfully.  However, even after double t
 
 ### Screen Shots 
 
+![Mainn Page](imgs/main.png)
+
+![GitHub Logo](/imgs/notes.png)
+
 ### Links
 
 [GitHub](https://github.com/rffrye/Homework11)
