@@ -13,9 +13,9 @@ All of the bootstrap styling shows up wonderfully.  However, even after double t
 
 ### Links
 
-    * [GitHub]( https://github.com/rffrye/Homework11)
+[GitHub](https://github.com/rffrye/Homework11)
 
-    * [Deployed Heroku app](https://notetaker-rf.herokuapp.com)
+[Deployed Heroku app](https://notetaker-rf.herokuapp.com)
 
 ### Technologies 
 
